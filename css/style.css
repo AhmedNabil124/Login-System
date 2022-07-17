@@ -41,4 +41,7 @@ input::placeholder
     body > div > div > h2{
         font-size: 17px;
     }
+      #signin{
+        width: 100px !important;
+    }
 }
